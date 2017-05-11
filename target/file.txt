@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ <BookCatalogue>
+ <Book>
+ <Title>ewff</Title>
+ <Author>grcds</Author>
+ <Date>1988</Date>
+ <Path>file.txt</Path>
+ <Cost currency="USD">3.74</Cost>
+ </Book>
+</BookCatalogue>

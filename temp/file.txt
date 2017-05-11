@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BookCatalogue>
+    <Book id="1">
+        <Title>Luntik on the mars. Part III</Title>
+        <Author>Dhirendra Brahmachari</Author>
+        <Date>1966</Date>
+        <Cost>11.50</Cost>
+        <PathFS>D:\YaDisk\YandexDisk\java\book_lib\Luntik on the mars.txt</PathFS>
+    </Book>
+    <Book id="2">
+        <Title>Kamasutra</Title>
+        <Author>J. Krishnamurti</Author>
+        <Date>1954</Date>
+        <Cost>7.95</Cost>
+        <PathFS>D:\YaDisk\YandexDisk\java\book_lib\Kamasutra.djvu</PathFS>
+    </Book>
+    <Book>
+        <Title>Hello Kitty</Title>
+        <Author>Dhirendra Brahmachari</Author>
+        <Date>2030</Date>
+        <Cost>110.50</Cost>
+        <PathFS>D:\YaDisk\YandexDisk\java\book_lib\Dhirendra Brahmachari.djvu</PathFS>
+    </Book>
+    <Book id="3">
+        <Title>Book of the morning</Title>
+        <Author>Rakhat Lukum</Author>
+        <Date>1954</Date>
+        <Cost>17.95</Cost>
+        <PathFS>D:\YaDisk\YandexDisk\java\book_lib\Book of the morning.djvu</PathFS>
+    </Book>
+<Book id="1"><Title>nello my friend</Title><Author>name</Author><Date>10.10.2010</Date><Cost currency="RUB">333</Cost><Path>file.txt</Path></Book>
+<Book id="1"><Title>mybook</Title><Author>myauthor</Author><Date>02.05.1987</Date><Cost currency="RUB">555</Cost><Path>file.txt</Path></Book>
+<Book id="1"><Title>www</Title><Author>an</Author><Date>02.02.2020</Date><Cost currency="RUB">120</Cost><Path>\\temp\file.txt</Path></Book>
+<Book id="1"><Title>qqq</Title><Author>aaa</Author><Date>02.02.2040</Date><Cost currency="RUB">234</Cost><Path>D:\YaDisk\YandexDisk\java\book_lib\temp\file.txt</Path></Book></BookCatalogue>
