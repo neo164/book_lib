@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef869b6b-76b5-4049-b747-929fb1563d3a" name="Default" comment="new version">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilReaderImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilUpdate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilUpdateImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/shlak/FileUtilWriterImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilReaderImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilUpdate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilUpdateImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/shlak/FileUtilWriterImpl.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/app_package/App.class" afterPath="$PROJECT_DIR$/target/classes/app_package/App.class" />
+    <list default="true" id="ef869b6b-76b5-4049-b747-929fb1563d3a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file.txt" afterPath="$PROJECT_DIR$/file.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/app_package/App.java" afterPath="$PROJECT_DIR$/src/main/java/app_package/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/controller/MainController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,7 +33,7 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/app_package/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
+            <state relative-caret-position="-1874">
               <caret line="119" column="62" lean-forward="false" selection-start-line="119" selection-start-column="62" selection-end-line="119" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -62,11 +42,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="data.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="0">
+              <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -75,8 +85,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -115,43 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="angular.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/webapp/js/angular.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BookLib.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/BookLib.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DateValidatorImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/predybaylo/DateValidatorImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DOMUtilImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/predybaylo/DOMUtilImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -1141,12 +1119,20 @@
       <workItem from="1494402385323" duration="1891000" />
       <workItem from="1494411660401" duration="25000" />
       <workItem from="1494418765879" duration="17000" />
-      <workItem from="1504512437479" duration="1105000" />
+      <workItem from="1504512437479" duration="1733000" />
     </task>
+    <task id="LOCAL-00001" summary="new version">
+      <created>1504513550522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504513550522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="180157000" />
+    <option name="totallyTimeSpent" value="180785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1197,6 +1183,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1274,20 +1286,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/predybaylo/FilesApp.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/predybaylo/CreateFile.java" />
-    <entry file="file://$PROJECT_DIR$/database.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/book_lib.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1372,20 +1370,6 @@
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/net/www/protocol/file/FileURLConnection.class" />
-    <entry file="file://$PROJECT_DIR$/file1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/com/sun/org/apache/xerces/internal/parsers/DOMParser.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/predybaylo/DateValidator.java">
@@ -1456,14 +1440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/webapp/dispatcher-servlet.xml.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
@@ -1491,9 +1467,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="63" lean-forward="false" selection-start-line="0" selection-start-column="63" selection-end-line="0" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/app_package/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
+        <state relative-caret-position="-1874">
           <caret line="119" column="62" lean-forward="false" selection-start-line="119" selection-start-column="62" selection-end-line="119" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
