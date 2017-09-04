@@ -5,7 +5,6 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
-import shlak.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -53,9 +52,7 @@ public class App {
         BufferedReader d = new BufferedReader(new InputStreamReader(System.in));
         String sIn = " ";
 
-        FileUtilReader taskread = new FileUtilReaderImpl();
-        FileUtilWriter taskwrite = new FileUtilWriterImpl();
-        FileUtilUpdate taskupdate = new FileUtilUpdateImpl();
+
         DOMUtil taskXml = new DOMUtilImpl();
         DateValidator taskDate = new DateValidatorImpl();
 

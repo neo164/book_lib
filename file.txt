@@ -29,10 +29,10 @@
         <PathFS>D:\YaDisk\YandexDisk\java\book_lib\Book of the morning.djvu</PathFS>
     </Book>
     <Book id="5">
-        <Title>Heavy porn</Title>
+        <Title>Super book</Title>
         <Author>myauthor</Author>
         <Date>02.07.1900</Date>
         <Cost currency="RUB">555</Cost>
-        <PathFS>C:\Users\IPredybaylo\YandexDisk\java\book_lib\Heavy porn.txt</PathFS>
+        <PathFS>C:\Users\IPredybaylo\YandexDisk\java\book_lib\Super book.txt</PathFS>
     </Book>
 </BookCatalogue>
